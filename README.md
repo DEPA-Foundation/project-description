@@ -1,5 +1,3 @@
-Project Description
-
 This repo merely serves as a basic introduction to the DEPA framework. Unlike the other repos which lay out design requirements for various pieces of software, this repo merely serves to give a newcomer some basic information about DEPA. Unlike the other repos, no code is meant to be committed here. 
 
 
@@ -47,14 +45,14 @@ This project is extremely important for the country, and it has been designed to
 
 
 
-**Further reading**
-[IndiaStack page describing DEPA](https://indiastack.org/depa/)
-[API specifications for the system](https://api.rebit.org.in/)
-[Data schemas for the system](https://api.rebit.org.in/schema)
-[Homepage of Sahamati, the organization driving DEPA adoption and certification](http://sahamati.org.in/)
-[Security overview of the system](https://pdfhost.io/edit?doc=ec3fe7f4-5284-42e2-b560-2d8cb91a36e2)
-[Finvu sandbox to play around with APIs](https://finvu.github.io/sandbox/fip_data_api/)
-[OneMoney sandbox to play around with APIs](https://www.onemoney.in/docs/api/)
-[Nandan Nilekani introducing DEPA](https://www.youtube.com/watch?v=pJnnKUaoVpA&t=361s)
-[Sid Shetty introducing DEPA](https://www.youtube.com/watch?v=mW__azI8_ow&t=2812s)
-[Blog post about DEPA](https://blog.usejournal.com/this-can-be-as-big-as-upi-understanding-the-big-new-thing-in-india-76465995997f)
+**Further reading**<br>
+[IndiaStack page describing DEPA](https://indiastack.org/depa/) <br>
+[API specifications for the system](https://api.rebit.org.in/) <br>
+[Data schemas for the system](https://api.rebit.org.in/schema) <br>
+[Homepage of Sahamati, the organization driving DEPA adoption and certification](http://sahamati.org.in/) <br>
+[Security overview of the system](https://pdfhost.io/edit?doc=ec3fe7f4-5284-42e2-b560-2d8cb91a36e2) <br>
+[Finvu sandbox to play around with APIs](https://finvu.github.io/sandbox/fip_data_api/) <br>
+[OneMoney sandbox to play around with APIs](https://www.onemoney.in/docs/api/) <br>
+[Nandan Nilekani introducing DEPA](https://www.youtube.com/watch?v=pJnnKUaoVpA&t=361s) <br>
+[Sid Shetty introducing DEPA](https://www.youtube.com/watch?v=mW__azI8_ow&t=2812s) <br>
+[Blog post about DEPA](https://blog.usejournal.com/this-can-be-as-big-as-upi-understanding-the-big-new-thing-in-india-76465995997f)<br>
