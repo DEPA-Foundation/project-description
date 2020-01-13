@@ -45,9 +45,9 @@ This project is extremely important for the country, and it has been designed to
 
 
 
-**Connect with us**
+**Connect with us**<br>
 [Join the Slack channel](https://join.slack.com/t/depaopensourc-dev9365/shared_invite/enQtODg2MTI5OTE3ODc1LTY0ZDljNGQ0MjJjODBhZjhjN2UwM2MxY2YxNjA1MDgwMGM4OWU4ZmQwODdjZWEwMDhlZGIyZmQ3YmMyMDk0Yjc)
-<br>
+<br><br>
 **Further reading**<br>
 [IndiaStack page describing DEPA](https://indiastack.org/depa/) <br>
 [API specifications for the system](https://api.rebit.org.in/) <br>
